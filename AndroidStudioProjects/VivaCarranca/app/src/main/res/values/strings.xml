@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Turiste!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Titulo">Januária-MG</string>
+    <string name="title_activity_hoteis">Principais Hotéis</string>
+    <string name="title_activity_manifesta">Principais Eventos Culturais</string>
+    <string name="btn_saiba_mais">Saiba mais</string>
+    <string name="title_activity_boi">REIS DO BOI</string>
+    <string name="title_activity_cav">CAVALHADA</string>
+    <string name="title_activity_caval">CAVALGADA</string>
+    <string name="title_activity_santcruz">FESTEJOS DA SANTA CRUZ</string>
+    <string name="title_activity_festsant">FESTAS DOS SANTOS DO RIO</string>
+    <string name="title_activity_maruj">TERNO DOS TEMEROSOS</string>
+    <string name="conteudo_boi">O Reis do Boi é uma das manifestações que fazem parte do Reisado, este se caracteriza como festejos em comemoração a visita dos  três Reis Magos ao menino Jesus.
+        O período do Reisado se inicia no final do mês de dezembro e vai até o dia 06 de janeiro, data em que se comemora o dia de Santos Reis. É também nesse período em que os grupos de Reis do Boi tomam as ruas de Januária, com suas vestes coloridas e cantigas divertidas enchem as ruas e casas da cidade de alegria. São diversos os personagens que participam da brincadeira, entre eles os vaqueiros, normalmente representados por crianças, que com seus bastões provocam os demais integrantes do grupo. Fazem parte do grupo também o Tamanduá, a Mulinha de Ouro, a Catita e o Boi, personagem mais querido pelos adultos e mais temido por algumas crianças, devido a sua caracterização um tanto peculiar. Essa é uma tradição que encanta adultos e crianças, não é incomum ouvir em alguma roda de conversa pela cidade algum senhor mais de idade contando com certa nostalgia as travessuras que aprontava quando criança durante a brincadeira, e os inúmeros amigos que fez seguindo o Boi pelas ruas da cidade.
+    </string>
+
+    <string name="conteudo_cavalhada">A Cavalhada, é uma das mais belas e tradicionais manifestações folclóricas do interior de Minas Gerais. Em Januária, a festa foi introduzida pelo frei português José Jacob de Coimbra, em 1851, no povoado de Brejo do Salgado, hoje Brejo do Amparo, onde é mantida até os dias atuais preservando suas características por mais de 150 anos.
+        Trata-se da representação de uma luta entre dois grupos de oito cavaleiros cada, sendo um grupo de cavaleiros cristãos e o outro grupo de cavaleiros mouros. O grupo cristão veste-se de trajes branco e azul enquanto o mouro usa trajes vermelhos, todos enfeitados com flores nos chapéus, lenços, capas e em  seus cavalos são colocadas fitas coloridas. Todos os cavaleiros portam espadas. A representação da luta ocorre num ritmo ágil, com a utilização de lanças, pistolas e espadas. O espetáculo ocorre numa espécie de arena, e o público assiste a encenação postado em círculo. Essa manifestação folclórica que tem apaixonado a região norte-mineira,  representa uma união que se consumou, há muito tempo, quando os mouros reconheceram o valor supremo da virgem de Nazaré, venerada pelos cristãos. A dança revive as etapas desta união.
+    </string>
+
+    <string name="conteudo_cavalgada">A Cavalgada de Tocantins do distrito de Brejo do Amparo é um evento cultural que teve início em abril de 2006, na época com a presença de aproximadamente 48 cavaleiros. A manifestação acontece anualmente, sempre no mês de abril. Atualmente em sua 11º edição, já é considerada a maior cavalgada da região contando com a participação de cerca de 900 cavaleiros. Seu principal objetivo é a integração das comunidades e cidades circunvizinhas e de todo município de Januária, além da divulgação da cultura e da tradição do povo brejino.
+    </string>
+
+    <string name="conteudo_santCruz">Festa de caráter religioso e tipicamente familiar, os Festejos de Santa Cruz são realizados em Januária anualmente, sempre no mês de abril. É uma festa que já dura décadas e é promovida em favor da Santa cruz e também de outros santos como São João e Santo Antônio. Durante todos os dias da festa que dura por volta de dez dias são realizadas rezas ao pé do cruzeiro para dar início aos festejos e logo após há apresentações com artistas locais e grupos culturais, além de contar também com uma variedade de comidas típicas que são vendidas nas muitas barraquinhas espalhadas por toda a praça, local onde ocorre a festa. Todos os anos são escolhidos através de sorteio ou por consenso entre os organizadores os mordomos do “Mastro Santo”, símbolo da festa, e os noteiros são escolhidos entre entidades, escolas, ruas e famílias da comunidade.
+        Essa é uma das festas mais populares da cidade de Januária, onde os moradores sabem que todos os anos poderão se reunir para apreciarem um pouco da cultura e do jeito de ser do povo januarense.
+    </string>
+
+    <string name="conteudo_santRio">Os festejos dos Santos do Rio tiveram início no ano de 2001, em razão da comemoração dos 500 anos do rio São Francisco. Na ocasião, a população de Januária se identificou de imediato com a festa por ser uma manifestação cultural e religiosa que une a tradição católica com as questões ambientais sempre presentes na vida da população ribeirinha, trazendo consigo a importância da preservação do rio. Os festejos se iniciam com uma procissão que sai da Catedral de Nossa Senhora das Dores em direção ao rio São Francisco, onde vai de encontro a imagem de São Pedro e São Francisco trazidas às margens do rio por pescadores e vazanteiros em suas canoas enfeitadas com flores e luzes para a realização de uma missa campal. A festa dos Santos do Rio tornou-se ao longo dos anos uma das manifestações culturais mais importantes da cidade de Januária por celebrar o modo de viver dos povos tradicionais e por homenagear o que os barranqueiros tem de mais importante, o rio.
+    </string>
+
+    <string name="conteudo_marujada">O Terno dos Temerosos ou Rei dos cacetes, como é conhecida em Januária por causa de seus bastões, é uma das várias modalidades da folia. Em Januária, estima-se que já existe há mais de 80 anos trazida para a cidade pelos marinheiros de vapor por volta da década de 30-40. Segundo a Profª Dulce Sarmento essa manifestação teve sua origem na Península Ibérica quando os reinos cristãos resolveram se unir para expulsarem os Sarracenos que se encontravam naquela região desde o processo de feudalização. Esse movimento foi chamado de luta da reconquista, onde os novos Fidalgos podiam lutar montados a cavalo portando escudos e espadas, enquanto os homens de menor poder aquisitivo que também queriam defender a sua fé utilizavam varas compridas nas batalhas, esse foi o início do grupo dos Vara-Paus, de onde originou-se a cultura da dança com os bastões, principal  característica do Terno dos Temerosos.
+        Essa é uma manifestação de cunho religioso que  acontece no período do Reisado, que está compreendido entre 24 de dezembro e 6 de janeiro.
+    </string>
+    <string name="sub_titul_cav">Uma das mais belas e tradicionais manifestações folclóricas do interior de Minas Gerais.</string>
+    <string name="sub_titul_caval">Evento cultural que reúne mais de 900 cavaleiros de toda a região todos os anos.</string>
+    <string name="sub_titul_santcruz">Festa de caráter religioso e tipicamente familiar, são realizados em Januária anualmente, sempre no mês de abril.</string>
+    <string name="sub_titul_festsant">Festa de caráter religiosa e cultural que une a tradição católica com as questões ambientais.</string>
+    <string name="sub_titul_maruj">O Terno dos Temerosos ou Rei dos cacetes, como é conhecida em Januária, é uma das várias modalidades da folia.</string>
+    <string name="sub_titul_boi">O Reis do Boi é uma das manifestações que fazem parte do Reisado,se inicia no final do mês de dezembro e vai até o dia 06 de janeiro, data em que se comemora o dia de Santos Reis.</string>
+
+    <string name="conteudo_sobre">Pertencente à região do Norte de Minas Gerais, Januária faz parte do contexto sociocultural que integra o chamado Sertão norte mineiro, abrangendo uma diversidade de cenários e paisagens.
+        Banhada pelo Rio São Francisco, segundo dados do IBGE (2010) a cidade possui uma área territorial de 6.661,666 km² e uma população de 68.247 habitantes, constituída pela mestiçagem entre índios, negros e portugueses.
+        Com processo de ocupação vinculado às incursões de bandeirantes pelo rio São Francisco, ainda em meados do século XVI e início do século XVII, sua extensão territorial é muito ampla, decorrente ainda da forma como se deu sua ocupação.
+        Januária já chegou a ser considerada um dos maiores municípios do estado de Minas Gerais, atualmente vários distritos se emanciparam, mas o município ainda possui uma extensa área.
+        Era inicialmente conhecida como “Porto do Brejo do Salgado” e possuía um porto fluvial com intensa atividade. O município de Januária detém uma notável riqueza cultural, histórica e natural, uma grande diversidade de comunidades indígenas
+        e quilombolas,sendo considerado um importante polo cultural em todo Norte de Minas.</string>
+
+
+</resources>
